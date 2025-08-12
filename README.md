@@ -1,5 +1,5 @@
 # About
-I am currenlty working as a freelance bioinformatician.
+My name is Alexander (he/him). I was born in a mixed heritage region from Guatemala (Mayan Chʼortiʼ + European, I am very cool about my indigenous heritage and trying to constantly learn more about it). I work as a scientist developing computational tools to analyze environmental DNA as well as eukaryotic genomes. I also enjoy hiking, (amateur) wildlife photography, learning about Mesoamerican archaeology, and collecting musical instruments from around the world.
 
 Experience:
 
