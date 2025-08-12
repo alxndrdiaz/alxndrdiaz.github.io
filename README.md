@@ -1,5 +1,5 @@
 # About
-My name is Alexander (he/him). I have experience developing computational tools to analyze environmental DNA as well as eukaryotic genomes. I also enjoy hiking and (amateur) wildlife photography.
+My name is Alexander (he/him) Ramos Diaz. I have experience developing computational tools to analyze environmental DNA as well as eukaryotic genomes. I also enjoy hiking and (amateur) wildlife photography.
 
 Experience:
 
