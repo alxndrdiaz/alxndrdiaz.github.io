@@ -1,11 +1,11 @@
 # About
-My name is Alexander (he/him). I was born in a mixed heritage region from Guatemala (Mayan Chʼortiʼ + European, I am very cool about my indigenous heritage and trying to constantly learn more about it). I work as a scientist developing computational tools to analyze environmental DNA as well as eukaryotic genomes. I also enjoy hiking, (amateur) wildlife photography, learning about Mesoamerican archaeology, and collecting musical instruments from around the world.
+My name is Alexander (he/him). I have experience developing computational tools to analyze environmental DNA as well as eukaryotic genomes. I also enjoy hiking and (amateur) wildlife photography.
 
 Experience:
 
-1. Development of Bioinformatics pipeline in Nextflow.
-2. Genomics of fungi and bacteria, mainly for biotechnology applications.
-3. Whole-genome analysis to detect allergenic and toxin-related protein sequences in yeasts.
+1. Development of bioinformatics pipelines in Nextflow.
+2. Genomics of fungi and bacteria for biotechnology applications.
+3. Detection of allergenic/toxin-related protein sequences in yeasts.
 4. Metagenomics applied to crop biotechnology.
 5. Bulk and single-cell transcriptomics (post-graduate research projects).
 
