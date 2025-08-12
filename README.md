@@ -3,11 +3,11 @@ My name is Alexander (he/him). I have experience developing computational tools 
 
 Experience:
 
-1. Development of bioinformatics pipelines in Nextflow.
+1. Development of bioinformatics workflows in Nextflow.
 2. Genomics of fungi and bacteria for biotechnology applications.
 3. Detection of allergenic/toxin-related protein sequences in yeasts.
 4. Metagenomics applied to crop biotechnology.
-5. Bulk and single-cell transcriptomics (post-graduate research projects).
+5. Bulk and single-cell transcriptomics.
 
 
 Research interests and other stuff I would love to contribute to: 
