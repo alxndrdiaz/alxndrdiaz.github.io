@@ -16,3 +16,10 @@ Research interests and other stuff I would love to contribute to:
 2. Applications of genomics to bioremediation and the food industry.
 3. Recombination of RNA viruses and its role in zoonotic diseases.
 
+# Contact information
+
+1. [GitHub](https://github.com/alxndrdiaz)
+2. [LinkedIn](https://www.linkedin.com/in/alxndrdiaz/)
+3. [mastodon](https://genomic.social/@alxndrdiaz)
+4. E-mail: ra.ramos.diaz@gmail.com
+
