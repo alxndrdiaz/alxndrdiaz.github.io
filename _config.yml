@@ -2,3 +2,12 @@ theme: jekyll-theme-minimal
 title: Alexander Ramos
 description: Personal homepage
 
+author:
+  avatar           : "profile.jpg"
+  name             : "Your Sidebar Name"
+  pronouns         : "he/him"  
+  bio              : "Bioinformatician"
+  location         : "Guatemala"
+  employer         : "Currently working freelance"
+  uri              : # URL
+  email            : "ra.ramos.diaz@gmail.com"
