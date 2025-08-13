@@ -21,5 +21,6 @@ Research interests and other stuff I would love to contribute to:
 1. [GitHub](https://github.com/alxndrdiaz)
 2. [LinkedIn](https://www.linkedin.com/in/alxndrdiaz/)
 3. [mastodon](https://genomic.social/@alxndrdiaz)
-4. E-mail: ra.ramos.diaz@gmail.com
+4. [ORCID](https://orcid.org/0000-0001-6410-3349)
+5. E-mail: ra.ramos.diaz@gmail.com
 
