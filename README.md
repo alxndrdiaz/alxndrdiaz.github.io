@@ -24,3 +24,6 @@ Research interests and other stuff I would love to contribute to:
 4. [ORCID](https://orcid.org/0000-0001-6410-3349)
 5. E-mail: ra.ramos.diaz@gmail.com
 
+# Publications
+
+- nf-core/createtaxdb: is a bioinformatics pipeline that constructs custom metagenomic classifier databases for multiple classifiers and profilers from the same input reference genome set in a highly automated and parallelised manner. It supports both nucleotide and protein-based classifiers and profilers. DOI: [10.5281/zenodo.15696114][10.5281/zenodo.15696114]
