@@ -12,7 +12,7 @@ Experience:
 
 Research interests and other stuff I would love to contribute to: 
 
-1. Pathogen genomics (bacteria, eukaryotes,and viruses).
+1. Pathogen genomics (bacteria, eukaryotes, and viruses).
 2. Applications of genomics to bioremediation and the food industry.
 3. Recombination of RNA viruses and its role in zoonotic diseases.
 
