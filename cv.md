@@ -1,6 +1,6 @@
 layout: page
 title: "CV"
-permalink: /cv
+permalink: /cv/
 
 # Curriculum vitae
 
