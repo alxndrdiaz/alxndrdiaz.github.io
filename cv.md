@@ -1,11 +1,9 @@
 ---
 title: CV
-position: 2
+position: 1
 ---
 
-# Curriculum vitae
+# Experience
 
-## Professional experience
-
-- April 2025 - Present: Freelance Bioinformatician, Guatemala.
-  - Detection of allergenic/toxin-related protein sequences in yeasts.  
+- Since April 2025: Freelance Bioinformatician, Guatemala.
+  - Detection of allergenic/toxin-related protein sequences in yeasts.
