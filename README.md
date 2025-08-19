@@ -4,8 +4,7 @@ My name is Alexander (he/him) Ramos Diaz. I have experience developing computati
 Experience:
 
 1. Development of bioinformatics workflows in Nextflow.
-2. Genomics of fungi and bacteria for biotechnology applications.
-3. Detection of allergenic/toxin-related protein sequences in yeasts.
+2. Genomics of fungi and bacteria applied to biotechnology.
 4. Metagenomics applied to crop biotechnology.
 5. Bulk and single-cell transcriptomics.
 
