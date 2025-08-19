@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Alexander Ramos
-logo: dysdercus_concinnus.png
+logo: assets/img/dysdercus_concinnus.png
 description: Personal homepage
 kramdown:
   parse_block_html: true
