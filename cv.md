@@ -1,6 +1,7 @@
-layout: page
-title: "CV"
-permalink: /cv/
+---
+title: CV
+position: 2
+---
 
 # Curriculum vitae
 
