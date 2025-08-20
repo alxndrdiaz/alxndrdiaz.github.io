@@ -6,7 +6,7 @@ position: 1
 # Industry experience
 
 ## Since April 2025
-Freelance Bioinformatician, Guatemala: I have been working on genome quality and phylogenetic placement of a yeast strain. In addition also developed code to detect allergenic and toxin-related proteins from whole genomes.
+Freelance Bioinformatician, Guatemala: I have been working on genome quality and phylogenetic placement of a yeast strain. In addition also developed code to detect allergenic and toxin-related proteins from a whole genome.
 
 ## May 2022 - October 2024
 Bioinformatician, Data Science Department, Solena Ag, Mexico. I worked in (1) genomics of fungi and bacteria with potential applications in crop biotechnology, (2) Nextflow pipelines: genome assembly, taxonomic profiling, and functional annotation of metagenomes.
@@ -36,23 +36,23 @@ Freelance Bioinformatician, Guatemala. Provided support for: (1) bioinformatics,
 - Also worked as a private teacher.
 
 ## 2011 - 2012 
-- Universidad de San Carlos de Guatemala, Faculty of Engineering, Department of Physics:
+- USAC, Guatemala, [Faculty of Engineering](https://portal.ingenieria.usac.edu.gt/), Department of Physics:
 - Laboratory Instructor.
 - Teaching Assistant.
 
 ## Other
-I have also worked in different jobs not related to academic research, teaching, or the biotech industry including: (1) Customer service representative in a call center (2013-2014), (2)English to Spanish translator for scientific documentation (2010-2011), and (3) installing network cables in buildings (2008-2010). On November 2019 I started a PhD project in Spain,unfortunately during 2020 I had to quit the program during the Covid19 pandemic, returning to Guatemala until 2021 because of international travel restrictions.
+I have also worked in different jobs not related to academic research, teaching, or the biotech industry including: (1) Customer service representative in a call center (2013-2014), (2) English to Spanish translator for scientific documentation (2010-2011), and (3) installing network cables in buildings (2008-2010). On November 2019 I started a PhD project in Spain,unfortunately during 2020 I had to quit the program during the Covid19 pandemic, returning to Guatemala until 2021 because of international travel restrictions.
 
 # Education
 
 ## 2017 - 2019
 - MSc in Integrative Biology
-- National Laboratory for Biodiversity Genomics, CINVESTAV, Mexico.
-- Lab: Functional and Evolutionary Genomics of Regulatory RNA led by Selene Fernandez-Valverde, PhD.
+- [National Laboratory for Biodiversity Genomics](https://www.cinvestav.mx/uga-langebio), CINVESTAV, Mexico.
+- Lab: [Functional and Evolutionary Genomics of Regulatory RNA](https://regrnalab.github.io/) led by Selene Fernandez-Valverde, PhD.
 
 ## 2008 - 2015
-- Bachelor of Science in Applied Physics
-- Faculty of Engineering, Universidad de San Carlos de Guatemala.
+- Bachelor of Science in Applied Physics.
+- [Faculty of Engineering](https://portal.ingenieria.usac.edu.gt/), now the [School of Physical Sciences and Mathematics](https://ecfm.usac.edu.gt/), USAC, Guatemala.
 
 # Grants
 
@@ -60,4 +60,4 @@ I have also worked in different jobs not related to academic research, teaching,
 - Google Summer of Code Contributor grant.
 
 ## 2017 - 2019
-CONACYT, Mexico grant for post-graduate studies.
+CONACYT (SECIHTI), Mexico grant for post-graduate studies.
