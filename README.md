@@ -14,6 +14,7 @@ Research interests and other stuff I would love to contribute to:
 2. Applications of genomics to bioremediation and the food industry.
 3. Recombination of RNA viruses and its role in zoonotic diseases.
 4. Biodiversity of Mesoamerica.
+5. Ancient Metagenomics.
 
 # Contact information
 
