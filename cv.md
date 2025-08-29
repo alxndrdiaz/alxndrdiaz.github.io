@@ -49,10 +49,12 @@ I have also worked in different jobs not related to academic research, teaching,
 - [MSc in Integrative Biology](https://www.cinvestav.mx/uga-langebio/oferta-academica/posgrados/maestria-biologia-integrativa).
 - [National Laboratory for Biodiversity Genomics](https://www.cinvestav.mx/uga-langebio), CINVESTAV, Mexico.
 - Lab: [Functional and Evolutionary Genomics of Regulatory RNA](https://regrnalab.github.io/) led by Selene Fernandez-Valverde, PhD.
+- [Thesis: Comparing gene co-expression during the embryogenesis of two protostome species](https://repositorio.cinvestav.mx/handle/cinvestav/1686).
 
 ## 2008 - 2015
 - Bachelor of Science in Applied Physics.
 - [Faculty of Engineering](https://portal.ingenieria.usac.edu.gt/), now the [School of Physical Sciences and Mathematics](https://ecfm.usac.edu.gt/), USAC, Guatemala.
+- [Thesis, in Spanish](http://www.repositorio.usac.edu.gt/2250/).
 
 # Grants
 
