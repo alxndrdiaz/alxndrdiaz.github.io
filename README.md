@@ -6,14 +6,13 @@ Experience:
 1. Development of bioinformatics workflows in Nextflow.
 2. Genomics of fungi and bacteria applied to biotechnology.
 4. Metagenomics applied to crop biotechnology.
-5. Bulk and single-cell transcriptomics.
 
 Research interests and other stuff I would love to contribute to: 
 
 1. Pathogen genomics (bacteria, eukaryotes, and viruses).
 2. Applications of genomics to bioremediation and the food industry.
 3. Recombination of RNA viruses and its role in zoonotic diseases.
-4. Biodiversity of Mesoamerica.
+4. Insect Biodiversity of Mexico and Guatemala.
 5. Ancient Metagenomics.
 
 # Contact information
