@@ -1,19 +1,18 @@
 # About
-My name is Alexander (he/him) Ramos Diaz. I have experience developing computational tools to analyze environmental DNA as well as eukaryotic genomes. I also enjoy hiking and (amateur) wildlife photography.
+My name is Alexander (he/him) Ramos Diaz. I have experience developing computational tools to analyze environmental DNA as well as eukaryotic genomes.
 
 Experience:
 
-1. Development of bioinformatics workflows in Nextflow.
-2. Genomics of fungi and bacteria applied to biotechnology.
-4. Metagenomics applied to crop biotechnology.
+1. Development of bioinformatics pipelines in Nextflow.
+2. Genomics of fungi and applications to biotechnology.
+4. Metagenomics.
 
 Research interests and other stuff I would love to contribute to: 
 
 1. Pathogen genomics (bacteria, eukaryotes, and viruses).
-2. Applications of genomics to bioremediation.
-3. Recombination of RNA viruses and its role in zoonotic diseases.
-4. Insect Biodiversity of Mexico and Guatemala.
-5. Ancient Metagenomics.
+4. Evolution and ecology of viral zoonotic diseases.
+3. Insect biodiversity.
+4. Ancient metagenomics.
 
 # Contact information
 
