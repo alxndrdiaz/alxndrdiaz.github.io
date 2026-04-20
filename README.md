@@ -11,8 +11,9 @@ Research interests:
 
 1. Pathogen genomics (bacteria, eukaryotes, and viruses).
 2. Ecology and evolution of viral zoonotic diseases.
-3. Insect biodiversity and the decline of insect populations and its consequences.
-4. Ancient metagenomics.
+3. Insect biodiversity.
+4. Decline of insect populations and its consequences in ecosystems.
+5. Ancient metagenomics.
 
 # Contact information
 
