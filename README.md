@@ -4,13 +4,13 @@ My name is Alexander (he/him) Ramos Diaz. I have experience developing computati
 Experience:
 
 1. Development of bioinformatics pipelines in Nextflow.
-2. Genomics of fungi and applications to biotechnology.
+2. Genomics of fungi and its applications to biotechnology.
 4. Metagenomics.
 
-Research interests and other stuff I would love to contribute to: 
+Research interests:
 
 1. Pathogen genomics (bacteria, eukaryotes, and viruses).
-4. Evolution and ecology of viral zoonotic diseases.
+2. Evolution and ecology of viral zoonotic diseases.
 3. Insect biodiversity.
 4. Ancient metagenomics.
 
