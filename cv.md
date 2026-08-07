@@ -18,7 +18,7 @@ position: 1
 - Project: Gene co-expression during the embryogenesis of two protostome species.
 - Supervisor: Selene Fernandez-Valverde, PhD.
 
-# Teaching experience and other jobs
+# Teaching experience
 
 ## 2026
 - Since February 2026. 
@@ -46,7 +46,7 @@ Bioinformatician, Data Science Department, [Solena Ag](https://www.solena.ag/hom
 Freelance Bioinformatician, Guatemala. Provided support for: (1) bioinformatics workflows, (2) stastical tests, and (3) data visualization in R for both biotech and academic projects.
 
 ## Other
-I have also worked in different jobs not related to academic research, teaching, or the biotechnology industry including: (1) Customer service representative in a call center at Guatemala City (2013-2014), (2) English to Spanish translator for scientific documents (2010-2011), and (3) installing network cables in buildings (2008-2010). On November 2019 I started a PhD project in Catalonia, Spain, unfortunately during 2020 I had to quit the program during the Covid-19 pandemic, returning to Guatemala until 2021 because of international travel restrictions.
+I have also worked in different jobs not related to academic research, teaching, or the biotechnology industry including: (1) Customer service representative in a call center at Guatemala City (2013-2014), (2) English to Spanish translator for scientific documents (2010-2011), and (3) installing network cables in buildings (2008-2010).
 
 # Education
 
